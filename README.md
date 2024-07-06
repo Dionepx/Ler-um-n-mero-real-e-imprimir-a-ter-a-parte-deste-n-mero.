@@ -1,0 +1,1 @@
+# Ler-um-n-mero-real-e-imprimir-a-ter-a-parte-deste-n-mero.
